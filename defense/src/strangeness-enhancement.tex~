@@ -1,0 +1,19 @@
+\begin{frame}
+  \frametitle{Strangeness Enhancement}
+
+  \begin{columns}
+
+    \column{0.5\textwidth}
+    \begin{itemize}
+    \item 
+    \end{itemize}
+
+    \column{0.5\textwidth}
+    \begin{tikzpicture}
+      \node{\includegraphics[width=0.8\textwidth]{strangeness-production.png}};
+    \end{tikzpicture}
+
+  \end{columns}
+
+
+\end{frame}

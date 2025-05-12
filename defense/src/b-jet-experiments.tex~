@@ -1,0 +1,22 @@
+\begin{frame}
+  \frametitle{$b$-jet Experiments}
+
+  \begin{itemize}
+  \item Heavy flavor experiments have been performed
+  \end{itemize}
+
+  \begin{columns}
+    \column{0.5\textwidth}
+    \begin{tikzpicture}
+      \node{\includegraphics[widhth=\textwidtdh]{b-jet-raa.png}};
+    \end{tikzpicture}
+    \column{0.5\textwidth}
+    \begin{tikzpicture}
+      \node{\includegraphics[widhth=\textwidtdh]{b-jet-shapes.png}};
+    \end{tikzpicture}
+  \end{columns}
+  
+\end{frame}
+
+
+  

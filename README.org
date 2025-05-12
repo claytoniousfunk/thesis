@@ -1,0 +1,8 @@
+#+title: PhD Thesis
+#+author: Clayton Bennett
+
+* Introduction
+
+This directory contains the work for Clayton Bennett's PhD thesis.  This contains the full dissertation and defense.
+
+

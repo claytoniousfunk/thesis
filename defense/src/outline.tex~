@@ -1,0 +1,27 @@
+     \begin{frame}
+       \frametitle{\textbf{Outline}}
+       %% \begin{itemize}
+       %% \item The Quark Gluon Plasma
+       %% \item Jets as probes of the Quark Gluon Plasma
+       %% \item $b$-jet measurements with CMS
+       %% \end{itemize}
+       \begin{enumerate}
+       \item \label{th1} The Quark Gluon Plasma
+       \item \label{th2} Jets as probes of the Quark Gluon Plasma
+       \item \label{th3} $b$-jet measurements with CMS
+       \end{enumerate}
+
+       \
+
+       \begin{columns}
+         \column{0.4\textwidth}
+         \begin{tikzpicture}
+           \node{\includegraphics[width=\textwidth]{event-display-1.png}};
+         \end{tikzpicture}
+         \column{0.4\textwidth}
+         \begin{tikzpicture}
+           \node{\includegraphics[width=\textwidth]{event-display-2.png}};
+         \end{tikzpicture}
+       \end{columns}
+       \centering \scriptsize First 2023 PbPb collision at 5.36 TeV
+     \end{frame}

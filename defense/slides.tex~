@@ -1,0 +1,208 @@
+%\documentclass[xcolor={dvipsnames}]{beamer}
+\documentclass[9pt]{beamer}
+%\usepackage[dvipsnames]{xcolor}
+%\usepackage[dvipsnames,table,xcdraw]{xcolor}
+
+\usepackage[utf8]{inputenc}
+\usepackage{caption}
+\usepackage{tikz}
+\usetikzlibrary{tikzmark}
+\usetikzlibrary{shapes.geometric}
+\usetikzlibrary{arrows,scopes} %tikz libraries used to draw the glyphs
+\usetikzlibrary {3d}
+\usetikzlibrary{decorations.markings}
+\usepackage{circuitikz}
+\usepackage{tikz-3dplot}
+ \usepackage[compat=1.1.0]{tikz-feynman}
+\usepackage[percent]{overpic}
+\usepackage{diagbox}
+\usepackage{multirow}
+%\usepackage{fontspec}
+\usepackage{soul}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  filecolor=magenta,      
+  urlcolor=cyan,
+}
+
+\definecolor{green(ryb)}{rgb}{0.4, 0.69, 0.2}
+
+
+
+
+%\usepackage{lmodern}
+%\usepackage{helvet}
+%\usepackage{gfsneohellenicot}
+%\usepackage[light,condensed,math]{kurier}
+%\usepackage[T1]{fontenc}
+%\usepackage{times}
+%\usepackage{tgadventor}
+%\usepackage{mathpazo}
+%\usepackage{palatino}
+\usetheme{Boadilla}
+%\usetheme{Montpellier}
+%\usetheme{CambridgeUS}
+%\usepackage{cmbright}
+%\usepackage[OT1]{fontenc}
+
+
+\usepackage[scaled]{helvet} % With " scaled " option
+%\usepackage{eulervm}
+%\usefonttheme[onlymath]{serif}
+%\usepackage[light,math]{iwona}
+%\usepackage[T1]{fontenc}
+
+%\usepackage[sfdefault,lining]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
+%\usepackage[fakebold]{firamath-otf}
+%\renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
+
+%\setbeamercolor*{structure}{bg=Green!20,fg=Green}
+
+%\setbeamercolor*{palette primary}{use=structure,fg=white,bg=structure.fg}
+%\setbeamercolor*{palette secondary}{use=structure,fg=white,bg=structure.fg!75}
+%\setbeamercolor*{palette tertiary}{use=structure,fg=white,bg=structure.fg!50!black}
+%\setbeamercolor*{palette quaternary}{fg=white,bg=black}
+
+%\setbeamercolor{section in toc}{fg=black,bg=white}
+%\setbeamercolor{alerted text}{use=structure,fg=structure.fg!50!black!80!black}
+
+%\setbeamercolor{titlelike}{parent=palette primary,fg=structure.fg!50!black}
+%\setbeamercolor{frametitle}{bg=gray!10!white,fg=PineGreen}
+
+%\setbeamercolor*{titlelike}{parent=palette primary}
+
+
+
+%\usetheme{Madrid}
+%\usecolortheme{seahorse}
+\usecolortheme{dove}
+%\usecolortheme{structure}
+%\usecolortheme{beetle}
+%\usecolortheme{spruce}
+%\usecolortheme{fly}
+%\usecolortheme{dolphin}
+%\usecolortheme{albatross}
+%\usefonttheme{serif}
+
+\captionsetup{font=scriptsize,labelfont=scriptsize}
+
+
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{itemize item}[circle]
+\setbeamertemplate{itemize subitem}[square]
+\setbeamertemplate{itemize subsubitem}[triangle]
+
+\newcommand{\backupbegin}{
+  \newcounter{finalframe}
+  \setcounter{finalframe}{\value{framenumber}}
+}
+\newcommand{\backupend}{
+  \setcounter{framenumber}{\value{finalframe}}
+}
+
+%\newcommand{\pt}{$\mathnormal{p}_\mathrm{T}$ }
+%\newcommand{\pthat}{$\mathnormal{\hat{p}}_\mathrm{T}$ }
+\newcommand{\pt}{$p_{\text{T}}\ $}
+\newcommand{\ptjet}{$p_\text{T}^\text{jet}\ $}
+\newcommand{\ptmu}{$p_\text{T}^\mu\ $}
+\newcommand{\pthat}{$\hat{p}_{\text{T}}\ $}
+
+\newcommand{\rc}{%
+  \resizebox{!}{1.25ex}{%
+    \begin{tikzpicture}[>=round cap]
+      \clip (0.09em,-0.05ex) rectangle (0.61em,0.81ex);
+      \draw [line width=.11ex, <->, rounded corners=0.13ex] (0.1em,0.1ex) .. controls (0.24em,0.4ex) .. (0.35em,0.8ex) .. controls (0.29em,0.725ex) .. (0.25em,0.6ex) .. controls (0.7em,0.8ex) and (0.08em,-0.4ex) .. (0.55em,0.25ex);
+    \end{tikzpicture}%
+  }%
+}
+
+\tikzset{middlearrow/.style={
+        decoration={markings,
+            mark= at position 0.5 with {\arrow{#1}} ,
+        },
+        postaction={decorate}
+    }
+}
+
+
+
+
+
+%Information to be included in the title page:
+\title[Thesis Preliminary Exam] %optional
+      {\textbf{Thesis Preliminary Exam}}
+
+\author[Clayton Bennett] % (optional, for multiple authors)
+       {Clayton Bennett}
+
+\institute[UIC] % (optional)
+{
+               
+  University of Illinois at Chicago \\
+  The CMS Collaboration
+  
+}
+
+\date[4 Dec 2023] % (optional)
+     {December 4, 2023}
+
+
+     \begin{document}
+     \graphicspath{ {/home/clayton/Documents/nuclear/GroupMeeting/figures} }
+
+     \begin{frame}
+       \titlepage
+       \begin{columns}
+	 \column{0.2\textwidth}
+	 \centering
+	 \begin{figure}
+	   \includegraphics[width=0.8\textwidth]{CMSlogo}
+	 \end{figure}
+	 \column{0.6\textwidth}
+	 
+	 \column{0.2\textwidth}
+	 \begin{figure}
+	   \includegraphics[width=0.8\textwidth]{UIClogo}
+	 \end{figure}
+       \end{columns}
+     \end{frame}
+
+     \graphicspath{ {/home/clayton/Documents/nuclear/thesisPrelim/figures} }
+
+     \include{src/outline.tex}
+     \include{src/the-quark-gluon-plasma-title-slide.tex}
+     \include{src/the-standard-model.tex}
+     \include{src/quantum-chromodynamics.tex}
+     \include{src/deconfinement.tex}
+     \include{src/phases-of-qcd.tex}
+     \include{src/qgp-at-particle-colliders.tex}
+     \include{src/kinematics.tex}
+     \include{src/centrality.tex}
+     \include{src/flow-in-the-qgp.tex}
+     \include{src/strangeness-enhancement.tex}
+     \include{src/charged-particle-suppression.tex}
+     \include{src/jets-as-probes-of-the-qgp-title-slide.tex}
+     \include{src/factorization-theorems-in-qcd-1.tex}
+     \include{src/factorization-theorems-in-qcd-2.tex}
+     \include{src/jets-intro.tex}
+     \include{src/jets.tex}
+     \include{src/jet-suppression.tex}
+     \include{src/jet-shapes-and-fragmentation.tex}
+     \include{src/jet-fragmentation.tex}
+     \include{src/jet-flavor.tex}
+     \include{src/b-jet-measurements-with-cms-title-page.tex}
+     \include{src/cms-detector.tex}
+     \include{src/cms-detector-slice.tex}
+     \include{src/b-jet-identification.tex}
+     \include{src/b-jet-experiments.tex}
+     \include{src/muon-tagged-jets.tex}
+     \include{src/muon-rel-pt-template-fitting.tex}
+     \include{src/b-jet-result.tex}
+     \include{src/summary.tex}
+     \include{src/thank-you.tex}
+
+
+     \end{document}

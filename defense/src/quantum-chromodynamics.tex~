@@ -1,0 +1,33 @@
+\begin{frame}
+  \frametitle{\textbf{Quantum Chromodynamics}}
+  \begin{columns}
+    \column{0.6\textwidth}
+    \begin{itemize}
+    \item \textbf{Quantum chromodynamics} (QCD) is a quantum field theory describing the \textbf{strong interaction} between \textbf{quarks} and \textbf{gluons}
+    \item \textbf{Confinement}: fundamental feature of QCD
+      \begin{itemize}
+      \item Strong force grows with separationS
+      \item $q\bar{q} \to q\bar{q} + q\bar{q}$ (particles from vacuum)
+      \end{itemize}
+    \item QCD is a quantum field theory with \textbf{asymptotic freedom}
+    \end{itemize}
+    \begin{align*}
+      &\alpha_s(Q^2) = \cfrac{\alpha_s(\mu^2)}{1 + \left[\alpha_s(\mu^2)\frac{(33 - 2n_f)}{12\pi}\right]\ln\left(\frac{Q^2}{\mu^2}\right)} \\
+      &\lim_{Q \to \infty}\alpha_s(Q^2) \to 0
+    \end{align*}
+
+    \column{0.4\textwidth}
+    \centering
+    \begin{tikzpicture}
+      \node{\includegraphics[width=0.9\textwidth]{running-coupling.png}};
+      \node[font=\tiny,align=left] at (0.2,2.1) {\href{https://academic.oup.com/ptep/article/2022/8/083C01/6651666}{Prog. Theor. Exp. Phys. 2022, 083C01 (2022)}};
+    \end{tikzpicture}
+
+    \
+
+    \begin{tikzpicture}
+      \node{\includegraphics[width=0.9\textwidth]{chiral-susceptibility.png}};
+      \node[font=\tiny,align=left] at (1.2,1.6) {\href{https://arxiv.org/abs/2002.02821}{arXiv:2002.02821}};
+    \end{tikzpicture}
+  \end{columns}
+\end{frame}
