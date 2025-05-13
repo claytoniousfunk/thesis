@@ -1,0 +1,2500 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.5.12)  13 MAY 2025 10:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**slides.tex
+(./slides.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16>
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2022/09/13 v3.68 A class for typesetting presentations
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+)
+\beamer@tempbox=\box51
+\beamer@tempcount=\count186
+\c@beamerpauses=\count187
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count188
+\beamer@minimum=\count189
+\beamer@decode@box=\box52
+)
+\beamer@commentbox=\box53
+\beamer@modecount=\count190
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\headdp=\dimen140
+\footheight=\dimen141
+\sidebarheight=\dimen142
+\beamer@tempdim=\dimen143
+\beamer@finalheight=\dimen144
+\beamer@animht=\dimen145
+\beamer@animdp=\dimen146
+\beamer@animwd=\dimen147
+\beamer@leftmargin=\dimen148
+\beamer@rightmargin=\dimen149
+\beamer@leftsidebar=\dimen150
+\beamer@rightsidebar=\dimen151
+\beamer@boxsize=\dimen152
+\beamer@vboxoffset=\dimen153
+\beamer@descdefault=\dimen154
+\beamer@descriptionwidth=\dimen155
+\beamer@lastskip=\skip48
+\beamer@areabox=\box54
+\beamer@animcurrent=\box55
+\beamer@animshowbox=\box56
+\beamer@sectionbox=\box57
+\beamer@logobox=\box58
+\beamer@linebox=\box59
+\beamer@sectioncount=\count191
+\beamer@subsubsectionmax=\count192
+\beamer@subsectionmax=\count193
+\beamer@sectionmax=\count194
+\beamer@totalheads=\count195
+\beamer@headcounter=\count196
+\beamer@partstartpage=\count197
+\beamer@sectionstartpage=\count198
+\beamer@subsectionstartpage=\count199
+\beamer@animationtempa=\count266
+\beamer@animationtempb=\count267
+\beamer@xpos=\count268
+\beamer@ypos=\count269
+\beamer@ypos@offset=\count270
+\beamer@showpartnumber=\count271
+\beamer@currentsubsection=\count272
+\beamer@coveringdepth=\count273
+\beamer@sectionadjust=\count274
+\beamer@toclastsection=\count275
+\beamer@tocsectionnumber=\count276
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+\beamer@paperwidth=\skip49
+\beamer@paperheight=\skip50
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box60
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex
+\pgfkeys@tmptoks=\toks21
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen166
+\pgf@xa=\dimen167
+\pgf@xb=\dimen168
+\pgf@xc=\dimen169
+\pgf@y=\dimen170
+\pgf@ya=\dimen171
+\pgf@yb=\dimen172
+\pgf@yc=\dimen173
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count284
+\pgfmath@box=\box61
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count290
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count293
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen261
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen265
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box65
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count296
+\XC@countmixins=\count297
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count298
+)
+\@linkdim=\dimen267
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count301
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4045.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4045.
+Package hyperref Info: Option `implicit' set `false' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count302
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen268
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count303
+\Field@Width=\dimen269
+\Fld@charsize=\dimen270
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+\Hy@abspage=\count304
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2020/01/31
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count307
+\beamer@lastskipcover=\skip51
+\beamer@trivlistdepth=\count308
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count309
+\c@part=\count310
+\c@section=\count311
+\c@subsection=\count312
+\c@subsubsection=\count313
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box66
+\beamer@frametitlebox=\box67
+\beamer@zoombox=\box68
+\beamer@zoomcount=\count314
+\beamer@zoomframecount=\count315
+\beamer@frametextheight=\dimen271
+\c@subsectionslide=\count316
+\beamer@frametopskip=\skip52
+\beamer@framebottomskip=\skip53
+\beamer@frametopskipautobreak=\skip54
+\beamer@framebottomskipautobreak=\skip55
+\beamer@envbody=\toks29
+\framewidth=\dimen272
+\c@framenumber=\count317
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box69
+\beamer@autobreakcount=\count318
+\beamer@autobreaklastheight=\dimen273
+\beamer@frametitletoks=\toks30
+\beamer@framesubtitletoks=\toks31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box70
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box71
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks32
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box72
+\bmb@colorbox=\box73
+\bmb@boxwidth=\dimen274
+\bmb@boxheight=\dimen275
+\bmb@prevheight=\dimen276
+\bmb@temp=\dimen277
+\bmb@dima=\dimen278
+\bmb@dimb=\dimen279
+\bmb@prevheight=\dimen280
+)
+\beamer@blockheadheight=\dimen281
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
+)
+\beamer@bibiconwidth=\skip56
+\c@figure=\count319
+\c@table=\count320
+\abovecaptionskip=\skip57
+\belowcaptionskip=\skip58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen282
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen283
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen284
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count321
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count322
+\leftroot@=\count323
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count324
+\DOTSCASE@=\count325
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen285
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count326
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count327
+\dotsspace@=\muskip17
+\c@parentequation=\count328
+\dspbrk@lvl=\count329
+\tag@help=\toks35
+\row@=\count330
+\column@=\count331
+\maxfields@=\count332
+\andhelp@=\toks36
+\eqnshift@=\dimen286
+\alignsep@=\dimen287
+\tagshift@=\dimen288
+\tagwidth@=\dimen289
+\totwidth@=\dimen290
+\lineht@=\dimen291
+\@envbody=\toks37
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks39
+\thm@bodyfont=\toks40
+\thm@headfont=\toks41
+\thm@notefont=\toks42
+\thm@headpunct=\toks43
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
+\dth@everypar=\toks44
+)
+\c@theorem=\count333
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen292
+\beamer@dimb=\dimen293
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen294
+\captionmargin=\dimen295
+\caption@leftmargin=\dimen296
+\caption@rightmargin=\dimen297
+\caption@width=\dimen298
+\caption@indent=\dimen299
+\caption@parindent=\dimen300
+\caption@hangindent=\dimen301
+Package caption Info: beamer document class detected.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption-beamer.sto
+File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
+e beamer document classes (AR)
+))
+\c@caption@flags=\count334
+\c@continuedfloat=\count335
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box76
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen302
+\pgf@nodesepend=\dimen303
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen304
+\pgffor@skip=\dimen305
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count336
+\pgfplotmarksize=\dimen306
+)
+\tikz@lastx=\dimen307
+\tikz@lasty=\dimen308
+\tikz@lastxsaved=\dimen309
+\tikz@lastysaved=\dimen310
+\tikz@lastmovetox=\dimen311
+\tikz@lastmovetoy=\dimen312
+\tikzleveldistance=\dimen313
+\tikzsiblingdistance=\dimen314
+\tikz@figbox=\box77
+\tikz@figbox@bg=\box78
+\tikz@tempbox=\box79
+\tikz@tempbox@bg=\box80
+\tikztreelevel=\count337
+\tikznumberofchildren=\count338
+\tikznumberofcurrentchild=\count339
+\tikz@fig@count=\count340
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count341
+\pgfmatrixcurrentcolumn=\count342
+\pgf@matrix@numberofcolumns=\count343
+)
+\tikz@expandcount=\count344
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/tikzmark/tikzlibrarytikzmark.code.tex
+File: tikzlibrarytikzmark.code.tex 2022/08/24 v1.15 TikZ library for marking po
+sitions in a document
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-01-16 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count345
+\l__pdf_internal_box=\box81
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-01-16 L3 Experimental document command parser
+)
+\l__sn_x_dim=\dimen315
+\l__sn_y_dim=\dimen316
+\l__sn_xa_dim=\dimen317
+\l__sn_ya_dim=\dimen318
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen319
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryscopes.code.tex
+File: tikzlibraryscopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrary3d.code.tex
+File: tikzlibrary3d.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.markings.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen320
+\pgfdecoratedremainingdistance=\dimen321
+\pgfdecoratedinputsegmentcompleteddistance=\dimen322
+\pgfdecoratedinputsegmentremainingdistance=\dimen323
+\pgf@decorate@distancetomove=\dimen324
+\pgf@decorate@repeatstate=\count346
+\pgfdecorationsegmentamplitude=\dimen325
+\pgfdecorationsegmentlength=\dimen326
+)
+\tikz@lib@dec@box=\box82
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.markings.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/circuitikz/circuitikz.sty
+Package: circuitikz 2022/12/10{} The CircuiTikz circuit drawing package version
+ 1.6.0
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.
+code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen327
+\pgfarrowlength=\dimen328
+\pgfarrowwidth=\dimen329
+\pgfarrowlinewidth=\dimen330
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.code.te
+x
+File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineartransf
+ormations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgftransformnonlinearflatness=\dimen331
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.
+code.tex
+File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@curvilinear@time@a=\dimen332
+\pgf@curvilinear@length@a=\dimen333
+\pgf@curvilinear@length@b=\dimen334
+\pgf@curvilinear@length@c=\dimen335
+\pgf@curvilinear@length@d=\dimen336
+)
+\pgf@arrows@the@rigidity=\dimen337
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfpu.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+)) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
+\pgf@circ@count@a=\count347
+\pgf@circ@count@b=\count348
+\pgf@circ@count@c=\count349
+\pgf@circ@res@up=\dimen338
+\pgf@circ@res@down=\dimen339
+\pgf@circ@res@zero=\dimen340
+\pgf@circ@res@left=\dimen341
+\pgf@circ@res@right=\dimen342
+\pgf@circ@res@other=\dimen343
+\pgf@circ@res@step=\dimen344
+\pgf@circ@res@temp=\dimen345
+\pgf@circ@Rlen=\dimen346
+\pgf@circ@scaled@Rlen=\dimen347
+\pgfstartlinewidth=\dimen348
+)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex
+\ctikz@scratchbox=\box83
+)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
+\pgf@circ@res@count=\count350
+)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen349
+)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/tikz-3dplot/tikz-3dplot.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tikz-feynman/tikz-feynman.sty
+Package: tikz-feynman 2016/02/05v1.1.0Feynman diagrams with TikZ
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks49
+\pgfopts@list@add@b@toks=\toks50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tikz-feynman/tikzlibraryfeynman.code.t
+ex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathmorphing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathmorphing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/gra
+phs/tikzlibrarygraphs.code.tex
+File: tikzlibrarygraphs.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\tikz@lib@auto@number=\count351
+\tikz@qnode@count=\count352
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.cod
+e.tex
+File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tikz-feynman/tikzfeynman.keys.code.tex
+))) (/usr/share/texlive/texmf-dist/tex/latex/overpic/overpic.sty
+Package: overpic 2020/02/22 1.3 picture overlays (RN)
+
+(/usr/share/texlive/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count353
+\d@lta=\count354
+\@delta=\dimen350
+\@@delta=\dimen351
+\@gridcnt=\count355
+\@joinkind=\count356
+\@dotgap=\dimen352
+\@ddotgap=\dimen353
+\@x@diff=\count357
+\@y@diff=\count358
+\x@diff=\dimen354
+\y@diff=\dimen355
+\@dotbox=\box84
+\num@segments=\count359
+\num@segmentsi=\count360
+\@datafile=\read3
+)
+\OVP@box=\box85
+) (/usr/share/texlive/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks51
+\@arclen=\dimen356
+\@arcrad=\dimen357
+\pIIe@tempdima=\dimen358
+\pIIe@tempdimb=\dimen359
+\pIIe@tempdimc=\dimen360
+\pIIe@tempdimd=\dimen361
+\pIIe@tempdime=\dimen362
+\pIIe@tempdimf=\dimen363
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count361
+\calc@Bcount=\count362
+\calc@Adimen=\dimen364
+\calc@Bdimen=\dimen365
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count363
+\calc@Cskip=\skip67
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen366
+\ar@mcellbox=\box86
+\extrarowheight=\dimen367
+\NC@list=\toks52
+\extratabsurround=\skip68
+\backup@length=\skip69
+\ar@cellbox=\box87
+)
+\diagbox@boxa=\box88
+\diagbox@boxb=\box89
+\diagbox@boxm=\box90
+\diagbox@wd=\dimen368
+\diagbox@ht=\dimen369
+\diagbox@insepl=\dimen370
+\diagbox@insepr=\dimen371
+\diagbox@outsepl=\dimen372
+\diagbox@outsepr=\dimen373
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip70
+\multirow@cntb=\count364
+\multirow@dima=\skip71
+\bigstrutjot=\dimen374
+)
+(/usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks53
+\SOUL@lasttoken=\toks54
+\SOUL@cmds=\toks55
+\SOUL@buffer=\toks56
+\SOUL@token=\toks57
+\SOUL@spaceskip=\skip72
+\SOUL@ttwidth=\dimen375
+\SOUL@uldp=\dimen376
+\SOUL@ulht=\dimen377
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 29.
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeBoadilla.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemerose.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedove.sty)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
+53.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 153.
+ (./slides.aux
+(./src/outline.aux) (./src/the-quark-gluon-plasma-title-slide.aux)
+(./src/the-standard-model.aux) (./src/quantum-chromodynamics.aux)
+(./src/deconfinement.aux) (./src/phases-of-qcd.aux)
+(./src/qgp-at-particle-colliders.aux) (./src/kinematics.aux)
+(./src/centrality.aux) (./src/flow-in-the-qgp.aux)
+(./src/strangeness-enhancement.aux) (./src/charged-particle-suppression.aux)
+(./src/jets-as-probes-of-the-qgp-title-slide.aux)
+(./src/factorization-theorems-in-qcd-1.aux)
+(./src/factorization-theorems-in-qcd-2.aux) (./src/jets-intro.aux)
+(./src/jets.aux) (./src/jet-suppression.aux)
+(./src/jet-shapes-and-fragmentation.aux) (./src/jet-fragmentation.aux)
+(./src/jet-flavor.aux) (./src/b-jet-measurements-with-cms-title-page.aux)
+(./src/cms-detector.aux) (./src/cms-detector-slice.aux)
+(./src/b-jet-identification.aux) (./src/b-jet-experiments.aux)
+(./src/muon-tagged-jets.aux) (./src/muon-rel-pt-template-fitting.aux)
+(./src/b-jet-result.aux) (./src/summary.aux) (./src/thank-you.aux))
+\openout1 = `slides.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(9.24994pt, 345.69548pt, 9.24994pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=345.69548pt
+* \textheight=244.6939pt
+* \oddsidemargin=-63.02005pt
+* \evensidemargin=-63.02005pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=9.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count365
+\scratchdimen=\dimen378
+\scratchbox=\box91
+\nofMPsegments=\count366
+\nofMParguments=\count367
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count368
+\MPscratchDim=\dimen379
+\MPnumerator=\count369
+\makeMPintoPDFobject=\count370
+\everyMPtoPDFconversion=\toks59
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring ON on input line 153.
+
+(./slides.out) (./slides.out)
+\@outlinefile=\write5
+\openout5 = `slides.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 153.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 153.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 153.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 153.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 153.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/phv/m/it on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/phv/m/it on input line 153.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 153.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 153.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/phv/b/n --> OT1/phv/b/n on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 153.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 153.
+
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dic
+tionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dict
+ionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionar
+y-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictiona
+ry-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
+ry-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+
+Package tikz-feynman Warning: LuaTeX is required if you wish to have vertices a
+utomatically placed. You can disable this warning by setting /tikzfeynman/warn 
+luatex=false on input line 153.
+
+(./slides.nav)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 4.74998pt on input line 153.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 171.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 10.40245pt on input line 171.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 171.
+</home/clayton/thesis/shared/figures/CMSlogo.png, id=14, 289.08pt x 289.08pt>
+File: /home/clayton/thesis/shared/figures/CMSlogo.png Graphic file (type png)
+<use /home/clayton/thesis/shared/figures/CMSlogo.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/CMSlogo.png  used 
+on input line 171.
+(pdftex.def)             Requested size: 55.31062pt x 55.30952pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 171
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 171
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 171.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 8.54997pt on input line 171.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 171.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 5.69998pt on input line 171.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 171.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 4.74998pt on input line 171.
+</home/clayton/thesis/shared/figures/UIClogo.png, id=16, 1204.5pt x 1204.5pt>
+File: /home/clayton/thesis/shared/figures/UIClogo.png Graphic file (type png)
+<use /home/clayton/thesis/shared/figures/UIClogo.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/UIClogo.png  used 
+on input line 171.
+(pdftex.def)             Requested size: 55.31062pt x 55.3029pt.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 3.79999pt on input line 171.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/clayton/thesis/share
+d/figures/CMSlogo.png> </home/clayton/thesis/shared/figures/UIClogo.png>]
+\openout2 = `src/outline.aux'.
+
+ (./src/outline.tex
+</home/clayton/thesis/shared/figures/event-display-1.png, id=52, 1428.33624pt x
+ 977.6525pt>
+File: /home/clayton/thesis/shared/figures/event-display-1.png Graphic file (typ
+e png)
+<use /home/clayton/thesis/shared/figures/event-display-1.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/event-display-1.pn
+g  used on input line 22.
+(pdftex.def)             Requested size: 138.27608pt x 94.63824pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 22--22
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/event-display-2.png, id=53, 1374.13374pt x
+ 995.72pt>
+File: /home/clayton/thesis/shared/figures/event-display-2.png Graphic file (typ
+e png)
+<use /home/clayton/thesis/shared/figures/event-display-2.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/event-display-2.pn
+g  used on input line 22.
+(pdftex.def)             Requested size: 138.27608pt x 100.18556pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 22--22
+[][]  
+ []
+
+[2
+
+
+ </home/clayton/thesis/shared/figures/event-display-1.png> </home/clayton/thesi
+s/shared/figures/event-display-2.png>])
+\openout2 = `src/the-quark-gluon-plasma-title-slide.aux'.
+
+
+(./src/the-quark-gluon-plasma-title-slide.tex
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 8.54997pt on input line 3.
+ [3
+
+
+
+
+])
+\openout2 = `src/the-standard-model.aux'.
+
+
+(./src/the-standard-model.tex
+</home/clayton/thesis/shared/figures/standard-model.jpg, id=112, 1606.0pt x 120
+5.50375pt>
+File: /home/clayton/thesis/shared/figures/standard-model.jpg Graphic file (type
+ jpg)
+<use /home/clayton/thesis/shared/figures/standard-model.jpg>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/standard-model.jpg
+  used on input line 34.
+(pdftex.def)             Requested size: 224.69995pt x 168.65901pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 34--34
+[][]  
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 34.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 7.59998pt on input line 34.
+[4
+
+
+
+
+ </home/clayton/thesis/shared/figures/standard-model.jpg>])
+\openout2 = `src/quantum-chromodynamics.aux'.
+
+
+(./src/quantum-chromodynamics.tex
+</home/clayton/thesis/shared/figures/running-coupling.png, id=145, 953.5625pt x
+ 586.19pt>
+File: /home/clayton/thesis/shared/figures/running-coupling.png Graphic file (ty
+pe png)
+<use /home/clayton/thesis/shared/figures/running-coupling.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/running-coupling.p
+ng  used on input line 95.
+(pdftex.def)             Requested size: 131.36185pt x 80.75119pt.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/node dis
+tance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/level di
+stance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling 
+distance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/node dis
+tance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/level di
+stance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling 
+distance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/node dis
+tance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/level di
+stance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling 
+distance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/node dis
+tance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/level di
+stance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling 
+distance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/node dis
+tance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/level di
+stance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling 
+distance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/node dis
+tance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/level di
+stance' requires LuaTeX. It will be ignored. on input line 95.
+
+
+Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling 
+distance' requires LuaTeX. It will be ignored. on input line 95.
+
+[5
+
+
+
+
+ </home/clayton/thesis/shared/figures/running-coupling.png>])
+\openout2 = `src/deconfinement.aux'.
+
+
+(./src/deconfinement.tex
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 57.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 57.
+
+
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 7.59998pt on input line 57.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 57.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 57.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 57.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <8> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 57.
+LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
+(Font)              scaled to size 7.59998pt on input line 57.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <6> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 57.
+LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
+(Font)              scaled to size 5.69998pt on input line 57.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <5> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 57.
+LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
+(Font)              scaled to size 4.74998pt on input line 57.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 57.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 57.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 6.64998pt on input line 57.
+</home/clayton/thesis/shared/figures/qcd-phase-change-alt.png, id=179, 790.955p
+t x 600.2425pt>
+File: /home/clayton/thesis/shared/figures/qcd-phase-change-alt.png Graphic file
+ (type png)
+<use /home/clayton/thesis/shared/figures/qcd-phase-change-alt.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/qcd-phase-change-a
+lt.png  used on input line 57.
+(pdftex.def)             Requested size: 138.2787pt x 104.9341pt.
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 57.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 57.
+
+
+</home/clayton/thesis/shared/figures/particle-ratios.png, id=180, 829.0975pt x 
+567.11874pt>
+File: /home/clayton/thesis/shared/figures/particle-ratios.png Graphic file (typ
+e png)
+<use /home/clayton/thesis/shared/figures/particle-ratios.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/particle-ratios.pn
+g  used on input line 57.
+(pdftex.def)             Requested size: 138.2787pt x 94.58301pt.
+[6
+
+
+
+
+ </home/clayton/thesis/shared/figures/qcd-phase-change-alt.png> </home/clayton/
+thesis/shared/figures/particle-ratios.png>])
+\openout2 = `src/phases-of-qcd.aux'.
+
+ (./src/phases-of-qcd.tex
+</home/clayton/thesis/shared/figures/qcd-phase-diagram.png, id=216, 751.80875pt
+ x 479.7925pt>
+File: /home/clayton/thesis/shared/figures/qcd-phase-diagram.png Graphic file (t
+ype png)
+<use /home/clayton/thesis/shared/figures/qcd-phase-diagram.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/qcd-phase-diagram.
+png  used on input line 39.
+(pdftex.def)             Requested size: 224.69995pt x 143.3971pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 39--39
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/baryon-chemical-potential-BES.png, id=218,
+ 1662.21pt x 828.09375pt>
+File: /home/clayton/thesis/shared/figures/baryon-chemical-potential-BES.png Gra
+phic file (type png)
+<use /home/clayton/thesis/shared/figures/baryon-chemical-potential-BES.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/baryon-chemical-po
+tential-BES.png  used on input line 39.
+(pdftex.def)             Requested size: 120.99551pt x 60.27217pt.
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 39.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 39.
+
+
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 39--39
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/baryon-antibaryon-rhic.png, id=219, 589.20
+125pt x 541.02126pt>
+File: /home/clayton/thesis/shared/figures/baryon-antibaryon-rhic.png Graphic fi
+le (type png)
+<use /home/clayton/thesis/shared/figures/baryon-antibaryon-rhic.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/baryon-antibaryon-
+rhic.png  used on input line 39.
+(pdftex.def)             Requested size: 102.84692pt x 94.43246pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 39--39
+[][]  
+ []
+
+
+Overfull \vbox (4.54353pt too high) detected at line 39
+ []
+
+[7
+
+
+
+
+ </home/clayton/thesis/shared/figures/qcd-phase-diagram.png> </home/clayton/the
+sis/shared/figures/baryon-chemical-potential-BES.png> </home/clayton/thesis/sha
+red/figures/baryon-antibaryon-rhic.png>])
+\openout2 = `src/qgp-at-particle-colliders.aux'.
+
+
+(./src/qgp-at-particle-colliders.tex
+</home/clayton/thesis/shared/figures/collision-stages.png, id=251, 1361.085pt x
+ 708.6475pt>
+File: /home/clayton/thesis/shared/figures/collision-stages.png Graphic file (ty
+pe png)
+<use /home/clayton/thesis/shared/figures/collision-stages.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/collision-stages.p
+ng  used on input line 20.
+(pdftex.def)             Requested size: 276.55743pt x 143.98692pt.
+ [8
+
+
+
+
+ </home/clayton/thesis/shared/figures/collision-stages.png>])
+\openout2 = `src/kinematics.aux'.
+
+ (./src/kinematics.tex
+</home/clayton/thesis/shared/figures/Pseudorapidity2.png, id=280, 271.0125pt x 
+220.825pt>
+File: /home/clayton/thesis/shared/figures/Pseudorapidity2.png Graphic file (typ
+e png)
+<use /home/clayton/thesis/shared/figures/Pseudorapidity2.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/Pseudorapidity2.pn
+g  used on input line 56.
+(pdftex.def)             Requested size: 80.20036pt x 65.34834pt.
+ [9
+
+
+
+
+ </home/clayton/thesis/shared/figures/Pseudorapidity2.png>])
+\openout2 = `src/centrality.aux'.
+
+ (./src/centrality.tex
+</home/clayton/thesis/shared/figures/centrality-hf-energy.png, id=310, 726.715p
+t x 661.47125pt>
+File: /home/clayton/thesis/shared/figures/centrality-hf-energy.png Graphic file
+ (type png)
+<use /home/clayton/thesis/shared/figures/centrality-hf-energy.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/centrality-hf-ener
+gy.png  used on input line 34.
+(pdftex.def)             Requested size: 120.99287pt x 110.12718pt.
+</home/clayton/thesis/shared/figures/glauber-collision.png, id=312, 980.66376pt
+ x 753.81625pt>
+File: /home/clayton/thesis/shared/figures/glauber-collision.png Graphic file (t
+ype png)
+<use /home/clayton/thesis/shared/figures/glauber-collision.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/glauber-collision.
+png  used on input line 34.
+(pdftex.def)             Requested size: 120.99287pt x 92.99605pt.
+</home/clayton/thesis/shared/figures/centrality-nch.png, id=314, 630.355pt x 69
+7.60625pt>
+File: /home/clayton/thesis/shared/figures/centrality-nch.png Graphic file (type
+ png)
+<use /home/clayton/thesis/shared/figures/centrality-nch.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/centrality-nch.png
+  used on input line 34.
+(pdftex.def)             Requested size: 112.34996pt x 124.32893pt.
+
+Overfull \vbox (8.20259pt too high) detected at line 34
+ []
+
+[10
+
+
+
+
+ </home/clayton/thesis/shared/figures/centrality-hf-energy.png> </home/clayton/
+thesis/shared/figures/glauber-collision.png> </home/clayton/thesis/shared/figur
+es/centrality-nch.png>])
+\openout2 = `src/flow-in-the-qgp.aux'.
+
+ (./src/flow-in-the-qgp.tex
+</home/clayton/thesis/shared/figures/nuclear-overlap-region-crop.png, id=345, 1
+402.23875pt x 1051.93pt>
+File: /home/clayton/thesis/shared/figures/nuclear-overlap-region-crop.png Graph
+ic file (type png)
+<use /home/clayton/thesis/shared/figures/nuclear-overlap-region-crop.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/nuclear-overlap-re
+gion-crop.png  used on input line 68.
+(pdftex.def)             Requested size: 110.62128pt x 82.98438pt.
+</home/clayton/thesis/shared/figures/velocity-anisotropy.png, id=346, 1206.5075
+pt x 648.4225pt>
+File: /home/clayton/thesis/shared/figures/velocity-anisotropy.png Graphic file 
+(type png)
+<use /home/clayton/thesis/shared/figures/velocity-anisotropy.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/velocity-anisotrop
+y.png  used on input line 68.
+(pdftex.def)             Requested size: 110.62128pt x 59.44385pt.
+</home/clayton/thesis/shared/figures/asymmetric-event-display.png, id=348, 286.
+06876pt x 346.29375pt>
+File: /home/clayton/thesis/shared/figures/asymmetric-event-display.png Graphic 
+file (type png)
+<use /home/clayton/thesis/shared/figures/asymmetric-event-display.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/asymmetric-event-d
+isplay.png  used on input line 68.
+(pdftex.def)             Requested size: 48.39746pt x 58.58382pt.
+</home/clayton/thesis/shared/figures/dn-dphi.png, id=349, 342.27875pt x 273.02p
+t>
+File: /home/clayton/thesis/shared/figures/dn-dphi.png Graphic file (type png)
+<use /home/clayton/thesis/shared/figures/dn-dphi.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/dn-dphi.png  used 
+on input line 68.
+(pdftex.def)             Requested size: 69.13803pt x 55.14876pt.
+
+Overfull \vbox (1.11565pt too high) detected at line 68
+ []
+
+[11
+
+
+
+
+ </home/clayton/thesis/shared/figures/nuclear-overlap-region-crop.png> </home/c
+layton/thesis/shared/figures/velocity-anisotropy.png> </home/clayton/thesis/sha
+red/figures/asymmetric-event-display.png> </home/clayton/thesis/shared/figures/
+dn-dphi.png>]
+</home/clayton/thesis/shared/figures/v2-before-scaling.png, id=381, 776.9025pt 
+x 573.14125pt>
+File: /home/clayton/thesis/shared/figures/v2-before-scaling.png Graphic file (t
+ype png)
+<use /home/clayton/thesis/shared/figures/v2-before-scaling.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/v2-before-scaling.
+png  used on input line 68.
+(pdftex.def)             Requested size: 138.27608pt x 102.00658pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 68--68
+ [][] 
+ []
+
+</home/clayton/thesis/shared/figures/v2-after-scaling.png, id=383, 762.85pt x 5
+28.97626pt>
+File: /home/clayton/thesis/shared/figures/v2-after-scaling.png Graphic file (ty
+pe png)
+<use /home/clayton/thesis/shared/figures/v2-after-scaling.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/v2-after-scaling.p
+ng  used on input line 68.
+(pdftex.def)             Requested size: 138.27608pt x 95.88155pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 68--68
+ [][] 
+ []
+
+[12
+
+ </home/clayton/thesis/shared/figures/v2-before-scaling.png> </home/clayton/the
+sis/shared/figures/v2-after-scaling.png>])
+\openout2 = `src/strangeness-enhancement.aux'.
+
+
+(./src/strangeness-enhancement.tex
+</home/clayton/thesis/shared/figures/strangeness-production.png, id=412, 902.37
+125pt x 811.03pt>
+File: /home/clayton/thesis/shared/figures/strangeness-production.png Graphic fi
+le (type png)
+<use /home/clayton/thesis/shared/figures/strangeness-production.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/strangeness-produc
+tion.png  used on input line 38.
+(pdftex.def)             Requested size: 120.99287pt x 108.7418pt.
+</home/clayton/thesis/shared/figures/strangeness-enhancement.png, id=414, 1254.
+6875pt x 775.89874pt>
+File: /home/clayton/thesis/shared/figures/strangeness-enhancement.png Graphic f
+ile (type png)
+<use /home/clayton/thesis/shared/figures/strangeness-enhancement.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/strangeness-enhanc
+ement.png  used on input line 38.
+(pdftex.def)             Requested size: 172.84773pt x 106.8847pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 38--38
+ [][] 
+ []
+
+
+Overfull \vbox (3.31812pt too high) detected at line 38
+ []
+
+[13
+
+
+
+
+ </home/clayton/thesis/shared/figures/strangeness-production.png> </home/clayto
+n/thesis/shared/figures/strangeness-enhancement.png>])
+\openout2 = `src/charged-particle-suppression.aux'.
+
+
+(./src/charged-particle-suppression.tex
+</home/clayton/thesis/shared/figures/RAA-neutral-and-charged.png, id=445, 852.1
+8375pt x 715.67375pt>
+File: /home/clayton/thesis/shared/figures/RAA-neutral-and-charged.png Graphic f
+ile (type png)
+<use /home/clayton/thesis/shared/figures/RAA-neutral-and-charged.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/RAA-neutral-and-ch
+arged.png  used on input line 25.
+(pdftex.def)             Requested size: 172.84773pt x 145.15247pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 25--25
+[][]  
+ []
+
+[14
+
+
+
+
+ </home/clayton/thesis/shared/figures/RAA-neutral-and-charged.png>])
+\openout2 = `src/jets-as-probes-of-the-qgp-title-slide.aux'.
+
+
+(./src/jets-as-probes-of-the-qgp-title-slide.tex [15
+
+
+
+
+])
+\openout2 = `src/factorization-theorems-in-qcd-1.aux'.
+
+
+(./src/factorization-theorems-in-qcd-1.tex [16
+
+
+
+
+])
+\openout2 = `src/factorization-theorems-in-qcd-2.aux'.
+
+
+(./src/factorization-theorems-in-qcd-2.tex
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 6.64998pt on input line 63.
+
+Overfull \vbox (3.11302pt too high) detected at line 63
+ []
+
+[17
+
+
+
+
+])
+\openout2 = `src/jets-intro.aux'.
+
+ (./src/jets-intro.tex
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 43.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 43.
+
+
+</home/clayton/thesis/shared/figures/jet-quenching.png, id=553, 748.7975pt x 70
+7.64375pt>
+File: /home/clayton/thesis/shared/figures/jet-quenching.png Graphic file (type 
+png)
+<use /home/clayton/thesis/shared/figures/jet-quenching.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/jet-quenching.png 
+ used on input line 43.
+(pdftex.def)             Requested size: 138.2787pt x 130.67448pt.
+</home/clayton/thesis/shared/figures/jet-cross-section-data-vs-theory.png, id=5
+55, 1017.8025pt x 694.595pt>
+File: /home/clayton/thesis/shared/figures/jet-cross-section-data-vs-theory.png 
+Graphic file (type png)
+<use /home/clayton/thesis/shared/figures/jet-cross-section-data-vs-theory.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/jet-cross-section-
+data-vs-theory.png  used on input line 43.
+(pdftex.def)             Requested size: 138.2787pt x 94.3598pt.
+
+Overfull \vbox (7.57976pt too high) detected at line 43
+ []
+
+[18
+
+
+
+
+ </home/clayton/thesis/shared/figures/jet-quenching.png> </home/clayton/thesis/
+shared/figures/jet-cross-section-data-vs-theory.png>])
+\openout2 = `src/jets.aux'.
+
+ (./src/jets.tex
+</home/clayton/thesis/shared/figures/cam-aachen.png, id=585, 911.405pt x 666.49
+pt>
+File: /home/clayton/thesis/shared/figures/cam-aachen.png Graphic file (type png
+)
+<use /home/clayton/thesis/shared/figures/cam-aachen.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/cam-aachen.png  us
+ed on input line 35.
+(pdftex.def)             Requested size: 103.70969pt x 75.83623pt.
+</home/clayton/thesis/shared/figures/kt.png, id=586, 911.405pt x 666.49pt>
+File: /home/clayton/thesis/shared/figures/kt.png Graphic file (type png)
+<use /home/clayton/thesis/shared/figures/kt.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/kt.png  used on in
+put line 35.
+(pdftex.def)             Requested size: 103.70969pt x 75.83623pt.
+</home/clayton/thesis/shared/figures/anti-kt.png, id=587, 911.405pt x 666.49pt>
+
+File: /home/clayton/thesis/shared/figures/anti-kt.png Graphic file (type png)
+<use /home/clayton/thesis/shared/figures/anti-kt.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/anti-kt.png  used 
+on input line 35.
+(pdftex.def)             Requested size: 103.70969pt x 75.83623pt.
+
+Overfull \vbox (4.22638pt too high) detected at line 35
+ []
+
+[19
+
+
+
+
+ </home/clayton/thesis/shared/figures/cam-aachen.png> </home/clayton/thesis/sha
+red/figures/kt.png> </home/clayton/thesis/shared/figures/anti-kt.png>])
+\openout2 = `src/jet-suppression.aux'.
+
+
+(./src/jet-suppression.tex
+</home/clayton/thesis/shared/figures/atlas-jet-raa.png, id=618, 1016.79875pt x 
+777.90625pt>
+File: /home/clayton/thesis/shared/figures/atlas-jet-raa.png Graphic file (type 
+png)
+<use /home/clayton/thesis/shared/figures/atlas-jet-raa.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/atlas-jet-raa.png 
+ used on input line 39.
+(pdftex.def)             Requested size: 172.84773pt x 132.23044pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 39--39
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/dijet-asymmetry.png, id=620, 1267.73625pt 
+x 628.3475pt>
+File: /home/clayton/thesis/shared/figures/dijet-asymmetry.png Graphic file (typ
+e png)
+<use /home/clayton/thesis/shared/figures/dijet-asymmetry.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/dijet-asymmetry.pn
+g  used on input line 39.
+(pdftex.def)             Requested size: 172.84773pt x 85.66698pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 39--39
+[][]  
+ []
+
+[20
+
+
+
+
+ </home/clayton/thesis/shared/figures/atlas-jet-raa.png> </home/clayton/thesis/
+shared/figures/dijet-asymmetry.png>])
+\openout2 = `src/jet-shapes-and-fragmentation.aux'.
+
+
+(./src/jet-shapes-and-fragmentation.tex
+Overfull \hbox (3.1058pt too wide) detected at line 47
+[]
+ []
+
+</home/clayton/thesis/shared/figures/jet-shape-cartoon.png, id=650, 536.0025pt 
+x 421.575pt>
+File: /home/clayton/thesis/shared/figures/jet-shape-cartoon.png Graphic file (t
+ype png)
+<use /home/clayton/thesis/shared/figures/jet-shape-cartoon.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/jet-shape-cartoon.
+png  used on input line 47.
+(pdftex.def)             Requested size: 103.70969pt x 81.56673pt.
+</home/clayton/thesis/shared/figures/cms-jet-shape.png, id=652, 1465.475pt x 67
+7.53125pt>
+File: /home/clayton/thesis/shared/figures/cms-jet-shape.png Graphic file (type 
+png)
+<use /home/clayton/thesis/shared/figures/cms-jet-shape.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/cms-jet-shape.png 
+ used on input line 47.
+(pdftex.def)             Requested size: 207.41939pt x 95.88754pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 47--47
+ [][] 
+ []
+
+[21
+
+
+
+
+ </home/clayton/thesis/shared/figures/jet-shape-cartoon.png> </home/clayton/the
+sis/shared/figures/cms-jet-shape.png>])
+\openout2 = `src/jet-fragmentation.aux'.
+
+ (./src/jet-fragmentation.tex
+</home/clayton/thesis/shared/figures/cms-fragmentation.png, id=682, 1045.9075pt
+ x 853.1875pt>
+File: /home/clayton/thesis/shared/figures/cms-fragmentation.png Graphic file (t
+ype png)
+<use /home/clayton/thesis/shared/figures/cms-fragmentation.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/cms-fragmentation.
+png  used on input line 20.
+(pdftex.def)             Requested size: 172.84773pt x 140.99118pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 20--20
+[][]  
+ []
+
+[22
+
+
+
+
+ </home/clayton/thesis/shared/figures/cms-fragmentation.png>])
+\openout2 = `src/jet-flavor.aux'.
+
+
+(./src/jet-flavor.tex
+</home/clayton/thesis/shared/figures/flavor-spectra.png, id=710, 677.53125pt x 
+627.34375pt>
+File: /home/clayton/thesis/shared/figures/flavor-spectra.png Graphic file (type
+ png)
+<use /home/clayton/thesis/shared/figures/flavor-spectra.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/flavor-spectra.png
+  used on input line 25.
+(pdftex.def)             Requested size: 138.2787pt x 128.03195pt.
+</home/clayton/thesis/shared/figures/flavor-fraction.png, id=711, 851.18pt x 61
+0.28pt>
+File: /home/clayton/thesis/shared/figures/flavor-fraction.png Graphic file (typ
+e png)
+<use /home/clayton/thesis/shared/figures/flavor-fraction.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/flavor-fraction.pn
+g  used on input line 25.
+(pdftex.def)             Requested size: 172.84773pt x 123.92557pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 25--25
+[][]  
+ []
+
+[23
+
+
+
+
+ </home/clayton/thesis/shared/figures/flavor-spectra.png> </home/clayton/thesis
+/shared/figures/flavor-fraction.png>])
+\openout2 = `src/b-jet-measurements-with-cms-title-page.aux'.
+
+
+(./src/b-jet-measurements-with-cms-title-page.tex
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 4.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 4.
+
+[24
+
+
+
+
+])
+\openout2 = `src/cms-detector.aux'.
+
+ (./src/cms-detector.tex
+</home/clayton/thesis/shared/figures/cms-detector.png, id=767, 9741.39375pt x 6
+829.515pt>
+File: /home/clayton/thesis/shared/figures/cms-detector.png Graphic file (type p
+ng)
+<use /home/clayton/thesis/shared/figures/cms-detector.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/cms-detector.png  
+used on input line 7.
+(pdftex.def)             Requested size: 311.12381pt x 218.11127pt.
+ [25
+
+
+
+
+ </home/clayton/thesis/shared/figures/cms-detector.png>])
+\openout2 = `src/cms-detector-slice.aux'.
+
+ (./src/cms-detector-slice.tex
+</home/clayton/thesis/shared/figures/cms-detector-slice.png, id=797, 1360.08125
+pt x 904.37875pt>
+File: /home/clayton/thesis/shared/figures/cms-detector-slice.png Graphic file (
+type png)
+<use /home/clayton/thesis/shared/figures/cms-detector-slice.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/cms-detector-slice
+.png  used on input line 7.
+(pdftex.def)             Requested size: 311.12381pt x 206.87115pt.
+ [26
+
+
+
+
+ </home/clayton/thesis/shared/figures/cms-detector-slice.png>])
+\openout2 = `src/b-jet-identification.aux'.
+
+ (./src/b-jet-identification.tex
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 43.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 43.
+
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <9> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
+(Font)              scaled to size 8.54997pt on input line 43.
+</home/clayton/thesis/shared/figures/csv-discriminator.png, id=826, 859.21pt x 
+586.19pt>
+File: /home/clayton/thesis/shared/figures/csv-discriminator.png Graphic file (t
+ype png)
+<use /home/clayton/thesis/shared/figures/csv-discriminator.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/csv-discriminator.
+png  used on input line 43.
+(pdftex.def)             Requested size: 117.53519pt x 80.18768pt.
+</home/clayton/thesis/shared/figures/pt-rel-cartoon.png, id=827, 601.24625pt x 
+482.80376pt>
+File: /home/clayton/thesis/shared/figures/pt-rel-cartoon.png Graphic file (type
+ png)
+<use /home/clayton/thesis/shared/figures/pt-rel-cartoon.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/pt-rel-cartoon.png
+  used on input line 43.
+(pdftex.def)             Requested size: 112.34996pt x 90.21606pt.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 43.
+[27
+
+
+
+
+ </home/clayton/thesis/shared/figures/csv-discriminator.png> </home/clayton/the
+sis/shared/figures/pt-rel-cartoon.png>]
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 43.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 43.
+
+
+File: /home/clayton/thesis/shared/figures/csv-discriminator.png Graphic file (t
+ype png)
+<use /home/clayton/thesis/shared/figures/csv-discriminator.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/csv-discriminator.
+png  used on input line 43.
+(pdftex.def)             Requested size: 117.53519pt x 80.18768pt.
+</home/clayton/thesis/shared/figures/muon-rel-pt.png, id=858, 930.47626pt x 865
+.2325pt>
+File: /home/clayton/thesis/shared/figures/muon-rel-pt.png Graphic file (type pn
+g)
+<use /home/clayton/thesis/shared/figures/muon-rel-pt.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/muon-rel-pt.png  u
+sed on input line 43.
+(pdftex.def)             Requested size: 117.53519pt x 109.2892pt.
+[28
+
+ </home/clayton/thesis/shared/figures/muon-rel-pt.png>])
+\openout2 = `src/b-jet-experiments.aux'.
+
+
+(./src/b-jet-experiments.tex
+</home/clayton/thesis/shared/figures/b-jet-raa.png, id=885, 1218.5525pt x 788.9
+475pt>
+File: /home/clayton/thesis/shared/figures/b-jet-raa.png Graphic file (type png)
+
+<use /home/clayton/thesis/shared/figures/b-jet-raa.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/b-jet-raa.png  use
+d on input line 20.
+(pdftex.def)             Requested size: 172.84773pt x 111.90852pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 20--20
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/b-jet-shapes.png, id=886, 909.3975pt x 861
+.2175pt>
+File: /home/clayton/thesis/shared/figures/b-jet-shapes.png Graphic file (type p
+ng)
+<use /home/clayton/thesis/shared/figures/b-jet-shapes.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/b-jet-shapes.png  
+used on input line 20.
+(pdftex.def)             Requested size: 172.84773pt x 163.68558pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 20--20
+[][]  
+ []
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 20.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 20.
+
+
+[29
+
+
+
+
+ </home/clayton/thesis/shared/figures/b-jet-raa.png> </home/clayton/thesis/shar
+ed/figures/b-jet-shapes.png>])
+\openout2 = `src/muon-tagged-jets.aux'.
+
+ (./src/muon-tagged-jets.tex
+</home/clayton/thesis/shared/figures/muon-tagged-jet-spectra.png, id=915, 912.4
+0875pt x 907.39pt>
+File: /home/clayton/thesis/shared/figures/muon-tagged-jet-spectra.png Graphic f
+ile (type png)
+<use /home/clayton/thesis/shared/figures/muon-tagged-jet-spectra.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/muon-tagged-jet-sp
+ectra.png  used on input line 31.
+(pdftex.def)             Requested size: 120.99287pt x 120.31859pt.
+</home/clayton/thesis/shared/figures/JER-JES.png, id=916, 1161.33875pt x 528.97
+626pt>
+File: /home/clayton/thesis/shared/figures/JER-JES.png Graphic file (type png)
+<use /home/clayton/thesis/shared/figures/JER-JES.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/JER-JES.png  used 
+on input line 31.
+(pdftex.def)             Requested size: 259.2716pt x 118.09436pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 31--31
+[][]  
+ []
+
+
+Overfull \vbox (8.4313pt too high) detected at line 31
+ []
+
+[30
+
+
+
+
+ </home/clayton/thesis/shared/figures/muon-tagged-jet-spectra.png> </home/clayt
+on/thesis/shared/figures/JER-JES.png>])
+\openout2 = `src/muon-rel-pt-template-fitting.aux'.
+
+
+(./src/muon-rel-pt-template-fitting.tex
+</home/clayton/thesis/shared/figures/template-fit-pp.png, id=945, 935.495pt x 8
+83.3pt>
+File: /home/clayton/thesis/shared/figures/template-fit-pp.png Graphic file (typ
+e png)
+<use /home/clayton/thesis/shared/figures/template-fit-pp.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/template-fit-pp.pn
+g  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/template-fit-PbPb-30-90.png, id=946, 935.4
+95pt x 883.3pt>
+File: /home/clayton/thesis/shared/figures/template-fit-PbPb-30-90.png Graphic f
+ile (type png)
+<use /home/clayton/thesis/shared/figures/template-fit-PbPb-30-90.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/template-fit-PbPb-
+30-90.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/template-fit-PbPb-0-30.png, id=947, 935.49
+5pt x 883.3pt>
+File: /home/clayton/thesis/shared/figures/template-fit-PbPb-0-30.png Graphic fi
+le (type png)
+<use /home/clayton/thesis/shared/figures/template-fit-PbPb-0-30.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/template-fit-PbPb-
+0-30.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/template-shape-pp.png, id=948, 935.495pt x
+ 883.3pt>
+File: /home/clayton/thesis/shared/figures/template-shape-pp.png Graphic file (t
+ype png)
+<use /home/clayton/thesis/shared/figures/template-shape-pp.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/template-shape-pp.
+png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/template-shape-PbPb-30-90.png, id=949, 935
+.495pt x 883.3pt>
+File: /home/clayton/thesis/shared/figures/template-shape-PbPb-30-90.png Graphic
+ file (type png)
+<use /home/clayton/thesis/shared/figures/template-shape-PbPb-30-90.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/template-shape-PbP
+b-30-90.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/thesis/shared/figures/template-shape-PbPb-0-30.png, id=950, 935.
+495pt x 883.3pt>
+File: /home/clayton/thesis/shared/figures/template-shape-PbPb-0-30.png Graphic 
+file (type png)
+<use /home/clayton/thesis/shared/figures/template-shape-PbPb-0-30.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/template-shape-PbP
+b-0-30.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 35.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 35.
+
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 35.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 35.
+LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
+(Font)              scaled to size 10.40245pt on input line 35.
+[31
+
+
+
+
+ </home/clayton/thesis/shared/figures/template-fit-pp.png> </home/clayton/thesi
+s/shared/figures/template-fit-PbPb-30-90.png> </home/clayton/thesis/shared/figu
+res/template-fit-PbPb-0-30.png> </home/clayton/thesis/shared/figures/template-s
+hape-pp.png> </home/clayton/thesis/shared/figures/template-shape-PbPb-30-90.png
+> </home/clayton/thesis/shared/figures/template-shape-PbPb-0-30.png>])
+\openout2 = `src/b-jet-result.aux'.
+
+
+(./src/b-jet-result.tex
+</home/clayton/thesis/shared/figures/b-purity.png, id=985, 705.63625pt x 677.53
+125pt>
+File: /home/clayton/thesis/shared/figures/b-purity.png Graphic file (type png)
+<use /home/clayton/thesis/shared/figures/b-purity.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/b-purity.png  used
+ on input line 33.
+(pdftex.def)             Requested size: 172.84773pt x 165.96042pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 33--33
+ [] 
+ []
+
+[32
+
+
+
+
+ </home/clayton/thesis/shared/figures/b-purity.png>]
+</home/clayton/thesis/shared/figures/correction-factors-crop.png, id=1015, 896.
+34875pt x 656.4525pt>
+File: /home/clayton/thesis/shared/figures/correction-factors-crop.png Graphic f
+ile (type png)
+<use /home/clayton/thesis/shared/figures/correction-factors-crop.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/correction-factors
+-crop.png  used on input line 33.
+(pdftex.def)             Requested size: 172.84773pt x 126.58034pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 33--33
+ [] 
+ []
+
+[33
+
+ </home/clayton/thesis/shared/figures/correction-factors-crop.png>]
+</home/clayton/thesis/shared/figures/b-fraction.png, id=1042, 905.3825pt x 843.
+15pt>
+File: /home/clayton/thesis/shared/figures/b-fraction.png Graphic file (type png
+)
+<use /home/clayton/thesis/shared/figures/b-fraction.png>
+Package pdftex.def Info: /home/clayton/thesis/shared/figures/b-fraction.png  us
+ed on input line 33.
+(pdftex.def)             Requested size: 172.84773pt x 160.95921pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 33--33
+ [] 
+ []
+
+[34
+
+ </home/clayton/thesis/shared/figures/b-fraction.png>])
+\openout2 = `src/summary.aux'.
+
+ (./src/summary.tex
+[35
+
+
+
+
+])
+\openout2 = `src/thank-you.aux'.
+
+ (./src/thank-you.tex [36
+
+
+
+
+])
+\tf@nav=\write6
+\openout6 = `slides.nav'.
+
+\tf@toc=\write7
+\openout7 = `slides.toc'.
+
+\tf@snm=\write8
+\openout8 = `slides.snm'.
+
+ (./slides.aux (./src/outline.aux)
+(./src/the-quark-gluon-plasma-title-slide.aux) (./src/the-standard-model.aux)
+(./src/quantum-chromodynamics.aux) (./src/deconfinement.aux)
+(./src/phases-of-qcd.aux) (./src/qgp-at-particle-colliders.aux)
+(./src/kinematics.aux) (./src/centrality.aux) (./src/flow-in-the-qgp.aux)
+(./src/strangeness-enhancement.aux) (./src/charged-particle-suppression.aux)
+(./src/jets-as-probes-of-the-qgp-title-slide.aux)
+(./src/factorization-theorems-in-qcd-1.aux)
+(./src/factorization-theorems-in-qcd-2.aux) (./src/jets-intro.aux)
+(./src/jets.aux) (./src/jet-suppression.aux)
+(./src/jet-shapes-and-fragmentation.aux) (./src/jet-fragmentation.aux)
+(./src/jet-flavor.aux) (./src/b-jet-measurements-with-cms-title-page.aux)
+(./src/cms-detector.aux) (./src/cms-detector-slice.aux)
+(./src/b-jet-identification.aux) (./src/b-jet-experiments.aux)
+(./src/muon-tagged-jets.aux) (./src/muon-rel-pt-template-fitting.aux)
+(./src/b-jet-result.aux) (./src/summary.aux) (./src/thank-you.aux))
+Package rerunfilecheck Info: File `slides.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 48742 strings out of 476091
+ 1202453 string characters out of 5794081
+ 1890330 words of memory out of 5000000
+ 68027 multiletter control sequences out of 15000+600000
+ 563190 words of font info for 125 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,21n,122p,381b,2359s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cmextra/cmmib8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
+9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helveti
+c/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pf
+b>
+Output written on slides.pdf (36 pages, 11088127 bytes).
+PDF statistics:
+ 1227 PDF objects out of 1440 (max. 8388607)
+ 1019 compressed objects within 11 object streams
+ 76 named destinations out of 1000 (max. 500000)
+ 324 words of extra memory for PDF output out of 10000 (max. 10000000)
+
