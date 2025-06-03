@@ -1,0 +1,58 @@
+
+\begin{figure}[ht]
+  \begin{subfigure}{0.3\textwidth}
+    \resizebox{\linewidth}{!}{
+      \begin{tikzpicture}
+        \begin{feynman}
+          \vertex (a) {\( q \)};
+          \vertex[below right=of a] (b);
+          \vertex[below left=of b] (c) {\( q \)};
+          \vertex[right=of b] (d) {\( g \)};
+          \diagram*{
+            (a) -- [fermion] (b),
+            (b) -- [fermion] (c),
+            (b) -- [gluon] (d),
+          };
+        \end{feynman}
+      \end{tikzpicture}
+    }
+  \end{subfigure}
+  \begin{subfigure}{0.3\textwidth}
+    \resizebox{\linewidth}{!}{
+      \begin{tikzpicture}
+        \begin{feynman}
+          \vertex (a) {\( g \)};
+          \vertex[below right=of a] (b) ;
+          \vertex[below left=of b] (c) {\( g \)};
+          \vertex[right=of b] (d) {\( g \)};
+          \diagram*{
+            (a) -- [gluon] (b),
+            (b) -- [gluon] (c),
+            (b) -- [gluon] (d),
+          };
+        \end{feynman}
+      \end{tikzpicture}
+    }
+  \end{subfigure}
+  \begin{subfigure}{0.3\textwidth}
+    \resizebox{\linewidth}{!}{
+      \begin{tikzpicture}
+      \begin{feynman}
+        \vertex (a) {\( g \)};
+        \vertex[below right=of a] (b) ;
+        \vertex[below left=of b] (c) {\( g \)};
+        \vertex[above right=of b] (d) {\( g \)};
+        \vertex[below right=of b] (e) {\( g \)};
+        \diagram*{
+          (a) -- [gluon] (b),
+          (b) -- [gluon] (c),
+          (b) -- [gluon] (d),
+          (b) -- [gluon] (e),
+        };
+      \end{feynman}
+    \end{tikzpicture}
+    }
+  \end{subfigure}
+  \caption{Feynman diagrams for the fundamental interaction vertices of QCD.}
+  \label{fig:feynman-diagrams}
+\end{figure}

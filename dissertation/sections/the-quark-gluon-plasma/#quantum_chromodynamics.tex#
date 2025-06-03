@@ -1,0 +1,26 @@
+
+\section{Quantum Chromodynamics and the Standard Model}
+\label{qgp:qcd}
+
+The Standard Model of Particle Physics is a highly descriptive quantum field theory that describes fundamental particle interactions.
+It explains the electromagnetic, electroweak, and strong interactions to very high precision.
+Quantum chromodynamcs is the part of the Standard Model that describes the strong interactions between colored quarks and gluons.
+Interactions are modeled via the SU(3) Lie algebra.
+The Lagrangian of QCD is given by
+\begin{equation}
+  \mathcal{L} = \sum_q \bar{\psi}_{q,a} \left( i\gamma^\mu \partial_\mu \delta_{ab} - g_s \gamma^\mu t_{ab}^{C} A_{\mu}^C - m_q \delta_{ab}\right)\psi_{q,b} - \frac{1}{4}F_{\mu\nu}^{A} F^{A\mu\nu}
+\end{equation}
+where pairs of indices are summed over.
+The $\gamma^\mu$ are the Dirac $\gamma$-matrices, which embed spin dynamics of fermions.
+The $\psi_{q,a}$ are quark fields for a quark of flavor $q$, mass $m_q$, and color-index $a$ (which runs from 1 to 3).
+The $A_\mu^C$ represent the gluon fields, with the index $C$ running from 1 to 8, meaning there are 8 types of gluons.
+The $t_{ab}^C$ represent the generators of the SU(3) group, and correspond to 3$\times$3 matrices, and embed the color dynamics on the quark/gluon interaction.
+The quantity $g_s = \sqrt{4\pi\alpha_s}$ is the QCD coupling constant.
+The field tensor $F^{A}_{\mu\nu}$ is given by
+\begin{equation}
+  F_{\mu\nu}^A = \partial_\mu \mathcal{A}_\nu^A - \partial_\nu \mathcal{A}_\mu^A - g_s f_{ABC} \mathcal{A}_\mu^B \mathcal{A}_\mu^C
+\end{equation}
+The third term in the field tensor represents the self-coupling of the gluon field: a unique feature of QCD.
+The Feynman diagrams that represent the allowed interactions for QCD are shown in
+
+
