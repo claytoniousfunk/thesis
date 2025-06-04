@@ -3,8 +3,15 @@
 \label{qgp:qcd}
 
 The Standard Model of Particle Physics is a highly descriptive quantum field theory that describes fundamental particle interactions.
+The model predicts the existance of 17 distinct fundamental particles that make up all matter, anti-matter, and force carriers in the universe.
+There are 3 generations of quarks and antiquarks, which are fermions that have color charge and participate in both the strong and electroweak interactions.
+Then there are 3 generations of leptons and antileptons, which are also fermions, but only participate in electoweak interactions.
+There are 4 vector gauge bosons: the photon which mediates the electromagnetic force, and the W and Z bosons which mediate the weak force, and the gluon which mediates the strong force.
+Finally, there is a single scalar boson, which is the celebrated Higgs, discovered at the \gls{lhc} in 2008.
+
 It explains the fundamental strong, weak, and electromagnetic interactions, which correspond to the group structure SU(3)$\times$SU(2)$\times$U(1).
-The model predicts the existance of 12 fermions which make up all matter in the universe, and 5 bosons which act as force carriers.
+
+
 Quantum chromodynamcs is the SU(3) part of the Standard Model that describes the strong interactions between colored quarks and gluons.
 
 \input{figures/standard-model}
@@ -36,26 +43,30 @@ This occurs because, at low interaction energies, the strong force coupling (giv
 The reason for this phenomena is not immediately intuitive, and stems from the renormalization scheme for $\alpha_s$.
 The running coupling of the strong interaction strength $\alpha_s$ is derived from the renormlization group equation
 \begin{equation}
-  Q^2 \cfrac{\partial \alpha_s}{\partial Q^2} = \beta(\alpha_s)
   \label{eqn:RGE}
+  Q^2 \cfrac{\partial \alpha_s}{\partial Q^2} = \beta(\alpha_s)
 \end{equation}
 where the QCD $\beta$-function has the following perturbative expansion:
 \begin{equation}
-  \beta(\alpha_s) = -b \alpha_s^2 \left[1 + b'\alpha_s + O(\alpha_s^2)\right]
+  \label{eqn:beta-function}
+  \beta(\alpha_s) = -b \alpha_s^2 \left[1 + b'\alpha_s + b''\alpha_s^2  + O(\alpha_s^3)\right]
 \end{equation}
 If we only keep the lowest order terms, Eq. \ref{eqn:RGE} becomes
 \begin{equation}
+  \label{eqn:RGE-lowest-order}
   Q^2 \cfrac{\partial \alpha_s}{\partial Q^2} \approx -b \alpha_s^2
 \end{equation}
 which has the solution
 \begin{equation}
+  \label{eqn:alpha-approx}
   \alpha_s \approx \cfrac{1}{b\ln\left(\frac{Q^2}{\Lambda^2}\right)}
 \end{equation}
 where $\Lambda$ comes from the choice of the constant of integration, and represents the scale at which the coupling will diverge.
 While the exact value for $\Lambda$ is definition-dependent, it is often quoted as about 200 MeV.
 Near the mass scale of light hadrons ($Q \sim 1$ GeV), $\alpha_s$ is large, which leads to the confinement of quarks and gluons inside hadrons.
-For high interaction energies, $\alpha_s$ becomes small, and the strong force becomes small.
+As can be seen in \ref{eqn:alpha-approx}, high interaction energies (large $Q^2$), $\alpha_s$ becomes small.
 This phenomena is known as \textit{asymptotic freedom}.
+At high enough $Q^2$, quarks and gluons can be completely liberated from their hadronic bonds.
 
 \input{figures/running-coupling}
 

@@ -1,13 +1,12 @@
 # Fdb version 4
 ["bibtex thesis"] 0 "thesis.aux" "thesis.bbl" "thesis" 0 -1
-  "./formb.bst" 1748888345 20663 9d477f20e1966ec52685c72ba4508bcf ""
-  "./thesis.bib" 1748888345 505 62b7e59a4d8b559369d4d5f0166ea609 ""
-  "thesis.aux" 1748983480 2142 c785bf2effe3e883af79b51d69f41407 "pdflatex"
+  "./thesis.bib" 1748999542 1188 171c536ae9928c1d8c6deb235671761e ""
+  "thesis.aux" 1749002131 2427 a879af1711bc7dcd0d673f199db7e0a4 "pdflatex"
   (generated)
   "thesis.bbl"
   "thesis.blg"
   (rewritten before read)
-["pdflatex"] 1748983477 "thesis.tex" "thesis.pdf" "thesis" 1748983480 2
+["pdflatex"] 1749002128 "thesis.tex" "thesis.pdf" "thesis" 1749002131 2
   "/etc/texmf/web2c/texmf.cnf" 1745421230 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -232,7 +231,7 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1747068708 7882732 8f7ac10f7bbe3d1b04788063f987708a ""
   "figures/feynman-diagrams.tex" 1748975527 1664 b1507ad19a74353f20ed02f680f5aa73 ""
   "figures/running-coupling.png" 1747148964 121121 82800a31fe6b26790b37693568f32e0f ""
-  "figures/running-coupling.tex" 1748983168 329 7b5713837a76d311a85b03ca0f9c9c67 ""
+  "figures/running-coupling.tex" 1748999318 373 ece2aa157b7a96a1a5d6dd1f06d42fca ""
   "figures/standard-model.jpg" 1747066513 257465 fd66a9363823be44bde59d7b9699015f ""
   "figures/standard-model.tex" 1748983475 312 a2430c7cf35acf30616b0a6a3591055d ""
   "sections/introduction/index.tex" 1748899213 40 967e3ff5042d59cf1b8d6308f25c054f ""
@@ -241,18 +240,18 @@
   "sections/other/_3_contribution_of_authors.tex" 1748888345 523 38f19cc291545b9d5260c61916030974 ""
   "sections/other/_4_summary.tex" 1748888345 76 b6916e55d576bc4dd31c91ec6b6cfd6c ""
   "sections/other/_5_vita.tex" 1748889115 1348 875d1a58b6c1b232363f8c8408393390 ""
-  "sections/other/__abbrs.tex" 1748889254 467 eb84578ed4798f6a2866494c578414b9 ""
+  "sections/other/__abbrs.tex" 1748990810 511 53538f18f158f0c12f99ff1b02e1667a ""
   "sections/other/__commands.tex" 1748888345 229 8c9e4d75eb568c8e5eee9c14416ee940 ""
   "sections/other/__preamble.tex" 1748888345 2384 d53daa5e9ba4f9c4eeb241aa9f6c9f95 ""
   "sections/the-quark-gluon-plasma/index.tex" 1748915295 109 39e571b6a6fecf32f3709f603ed424f5 ""
-  "sections/the-quark-gluon-plasma/quantum-chromodynamics.tex" 1748983443 4004 805d08c69b537959d7110476cc5f8d0c ""
+  "sections/the-quark-gluon-plasma/quantum-chromodynamics.tex" 1749000479 4816 0cb11232deb690fdb0e9d2d01b443919 ""
   "thesis.acr" 0 -1 0 ""
-  "thesis.aux" 1748983480 2142 c785bf2effe3e883af79b51d69f41407 "pdflatex"
+  "thesis.aux" 1749002131 2427 a879af1711bc7dcd0d673f199db7e0a4 "pdflatex"
   "thesis.bbl" 0 -1 0 "bibtex thesis"
-  "thesis.lof" 1748983480 398 068c866f2be7ca077d88daf776fc0bb2 "pdflatex"
-  "thesis.lot" 1748983479 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "thesis.tex" 1748975510 1665 312dd669c70ba628cc44f24c587311a6 ""
-  "thesis.toc" 1748983480 501 3457abc3e9dcc2f4c81d25279fcc7bb0 "pdflatex"
+  "thesis.lof" 1749002131 432 32e2c7b1c004c66dc92b26fa2090cd7e "pdflatex"
+  "thesis.lot" 1749002130 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "thesis.tex" 1749002110 1666 f4209c6195e1f7f87689d2014bf94e8f ""
+  "thesis.toc" 1749002131 501 35073e3f03cef453af51b421b988c307 "pdflatex"
   "uicth11.clo" 1748888345 14724 0ff3a5cc2971315da92abf7d382e53b8 ""
   "uicthesi.cls" 1748888345 42468 a1979c4f6ba4a6eeb7e5053d90180c4f ""
   (generated)

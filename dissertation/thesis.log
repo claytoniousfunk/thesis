@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.5.12)  3 JUN 2025 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.5.12)  3 JUN 2025 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1278,14 +1278,14 @@ Package pdftex.def Info: figures/standard-model.jpg  used on input line 5.
 (pdftex.def)             Requested size: 293.59412pt x 220.36589pt.
 ) [2
 
-]
+] [3 <./figures/standard-model.jpg>]
 
-LaTeX Warning: Reference `eqn:gluon-field-tensor' on page 3 undefined on input 
-line 28.
+LaTeX Warning: Reference `eqn:gluon-field-tensor' on page 4 undefined on input 
+line 35.
 
 
-LaTeX Warning: Reference `fig:feynman-diagrams' on page 3 undefined on input li
-ne 29.
+LaTeX Warning: Reference `fig:feynman-diagrams' on page 4 undefined on input li
+ne 36.
 
 (./figures/feynman-diagrams.tex
 
@@ -1360,24 +1360,52 @@ stance' requires LuaTeX. It will be ignored. on input line 54.
 Package tikz-feynman Warning: The key you tried to use '/graph drawing/sibling 
 distance' requires LuaTeX. It will be ignored. on input line 54.
 
-) [3 <./figures/standard-model.jpg>]
+) [4]
 
-LaTeX Warning: Reference `eqn:RGE' on page 4 undefined on input line 46.
+LaTeX Warning: Reference `eqn:RGE' on page 5 undefined on input line 54.
 
-[4] (./figures/running-coupling.tex
-<figures/running-coupling.png, id=64, 953.5625pt x 586.19pt>
+
+LaTeX Warning: Reference `eqn:alpha-approx' on page 5 undefined on input line 6
+7.
+
+(./figures/running-coupling.tex
+<figures/running-coupling.png, id=63, 953.5625pt x 586.19pt>
 File: figures/running-coupling.png Graphic file (type png)
 <use figures/running-coupling.png>
 Package pdftex.def Info: figures/running-coupling.png  used on input line 5.
 (pdftex.def)             Requested size: 293.59412pt x 180.48267pt.
-))) [5 <./figures/running-coupling.png>]
+
+! Argument of \caption@ydblarg has an extra }.
+<inserted text> 
+                \par 
+l.6 ...aken from \cite{ParticleDataGroup:2024cfk}}
+                                                  
+? 
+Runaway argument?
+{\@caption \@captype }{\@tempswatrue \@namecite }\def \reserved@b {\@tempswafal
+se \ETC.
+! Paragraph ended before \caption@ydblarg was complete.
+<to be read again> 
+                   \par 
+l.6 ...aken from \cite{ParticleDataGroup:2024cfk}}
+                                                  
+? 
+
+LaTeX Warning: Citation `ParticleDataGroup:2024cfk' on page 5 undefined on inpu
+t line 6.
+
+
+LaTeX Warning: Citation `ParticleDataGroup:2024cfk' on page 5 undefined on inpu
+t line 6.
+
+[5]))) [6 <./figures/running-coupling.png>]
 CITED LITERATURE.
 No file thesis.bbl.
-[6
+[7
 
 ] (./sections/other/_5_vita.tex
 VITA.
-) [7] (./thesis.aux
+) [8] (./thesis.aux
 
 LaTeX Warning: Some of the footnotes might have moved. Rerun to fix the output 
 on input line 8.
@@ -1394,10 +1422,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 24619 strings out of 476091
- 499654 string characters out of 5794081
+ 24652 strings out of 476091
+ 500141 string characters out of 5794081
  1868330 words of memory out of 5000000
- 44466 multiletter control sequences out of 15000+600000
+ 44499 multiletter control sequences out of 15000+600000
  526754 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,16n,120p,2288b,2020s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1415,10 +1443,10 @@ euler/eufm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/eul
 er/eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/
 eurm7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm
 10.pfb>
-Output written on thesis.pdf (17 pages, 494924 bytes).
+Output written on thesis.pdf (18 pages, 496155 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 139 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
