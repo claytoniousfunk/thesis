@@ -1,3 +1,7 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces The fundamental particles posited by the Standard Model.\relax }}{3}{}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Feynman diagrams for the fundamental interaction vertices of QCD.\relax }}{4}{}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Experimental measurements of the strong coupling strength $\alpha _s$. Taken from \let \reserved@d =[\def \par }}{6}{}%
+\contentsline {figure}{\numberline {1}{\ignorespaces The fundamental particles posited by the Standard Model.\relax }}{3}{figure.caption.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Feynman diagrams for the fundamental interaction vertices of QCD.\relax }}{4}{figure.caption.5}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Experimental measurements of the strong coupling strength $\alpha _s$ \cite {ParticleDataGroup:2024cfk}.\relax }}{7}{figure.caption.6}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Lattice cartoon\relax }}{9}{figure.caption.7}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Normalized thermodynamic quantities, showing the smooth-crossover transition and resulting increase in number of degrees of freedom. Modified from \cite {PhysRevD.90.094503}.\relax }}{12}{figure.caption.8}%
+\contentsline {figure}{\numberline {6}{\ignorespaces QCD phase diagram. Figure from \cite {Arslandok:2023utm}\relax }}{15}{figure.caption.9}%
+\contentsline {figure}{\numberline {7}{\ignorespaces RHIC particle ratios \cite {ANDRONIC2006167}\relax }}{17}{figure.caption.10}%

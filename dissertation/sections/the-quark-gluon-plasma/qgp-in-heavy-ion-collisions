@@ -1,0 +1,42 @@
+\section{QGP in Heavy-Ion Collisions}
+\label{sec:qgp-in-heavy-ion-collisions}
+
+Experimentally, we want to measure whether or not our system reaches the critical temperature predicted by \gls{lqcd}.
+To estimate the temperature of our system, we again apply the ideas of statistical thermodynamcs.
+From the grand canonical ensemble, the number density of a particle species is given by
+\begin{equation}
+  n_i = - \frac{T}{V} \frac{\partial \ln Z}{\partial \mu} = \frac{g_i}{2\pi^2} \int \frac{p^2 dp}{e^{(E_i - \mu_i)/T} \pm 1}
+\end{equation}
+where the upper sign is for fermions and the lower sign is for bosons.
+In some small energy interval, the differential number density is
+\begin{align}
+  dn_i &= \frac{g_i}{2\pi^2} \frac{p^2 dp}{e^{(E_i - \mu_i)/T} \pm 1} \\
+  &\approx \frac{g_i}{2\pi^2} e^{-(E_i - \mu_i)/T} p^2 dp 
+\end{align}
+where we have taken the limit of $(E_i - \mu_i)/T \gg 1$.
+If we compare the ratio of some baryon $B$ to the corresponding anti-baryon, $\bar{B}$, we can fix the $\mu_B / T$ ratio:
+\begin{align}
+  \frac{dn_{\bar{B}}}{dn_{B}} &\approx \frac{e^{-(E_B - \mu_B)/T}}{e^{-(E_{\bar{B}} - \mu_{\bar{B}})/T}} \\
+  &\approx \frac{e^{-(E_B - \mu_B)/T}}{e^{-(E_B + \mu_B)/T}} = e^{-2\mu_B / T} \label{eqn:baryon-ratio}
+\end{align}
+where we have used $g_{\bar{B}} = g_B$, $E_{\bar{B}} = E_B$ and $\mu_{\bar{B}} = -\mu_B$.
+We can take a second ratio of mesons, where the baryonic chemical potential $\mu_B = 0$, to get a second equation for the temperature $T$.
+For example, we can take the ratio of $\pi^0$ and $K^0$ (and approximate $\mu_i \approx \mu_B = 0$):
+\begin{align}
+  \frac{dn_{\pi^0}}{dn_{K^0}} &\approx \frac{e^{-E_{\pi^0}/T}}{e^{-E_{K^0}/T}} \\
+  &= e^{(E_{K^0} - E_{\pi^0})/T} \label{eqn:meson-ratio}
+\end{align}
+Combining \ref{eqn:baryon-ratio} and \ref{eqn:meson-ratio} results in a solution pair for $T$ and $\mu_B$.
+These two parameters then predict all other particle ratios.
+Experimentally, we find that a temperature of $T = 155$ MeV and $\mu_B = 26$ MeV accurately model the observed particle ratios, as can be seen in \ref{fig:rhic-particle-ratios} \cite{ANDRONIC2006167}.
+This extracted temperature from the particle-ratio fits exactly agrees with the critical temperature predicted by \gls{lqcd}.
+We can interpret this as the ratios being the result of hadronic freeze-out occuring as the system cools to below the critical temperature.
+
+\input{figures/rhic-particle-ratios}
+
+
+
+% One way to estimate the inital energy denisty of our collision system is to measure the pseudorapidity spectra of charged particles from high energy particle collisions (a definition for the variable pseudorapidity $\eta$ is given in \ref{}). 
+% \begin{equation}
+% \cfrac{dN_{ch}}{d\eta} \approx 400
+% \end{equation}

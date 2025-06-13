@@ -1,9 +1,11 @@
 \addvspace {\baselineskip }
-\contentsline {chapter}{\xnumberline {1\hskip 2em}\uppercase {Introduction}}{1}{}%
+\contentsline {chapter}{\xnumberline {1\hskip 2em}\uppercase {Introduction}}{1}{chapter.1}%
 \addvspace {\baselineskip }
-\contentsline {chapter}{\xnumberline {2\hskip 2em}\uppercase {The Quark-Gluon Plasma}}{2}{}%
-\contentsline {section}{\numberline {2.1} Quantum Chromodynamics and the Standard Model}{2}{}%
+\contentsline {chapter}{\xnumberline {2\hskip 2em}\uppercase {The Quark-Gluon Plasma}}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1} Quantum Chromodynamics and the Asymptotic Freedom}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2} Phases of QCD}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3} QGP in Heavy-Ion Collisions}{14}{section.2.3}%
 \addvspace {\baselineskip }
-\contentsline {chapter}{\xnumberline {\ }CITED LITERATURE}{7}{}%
+\contentsline {chapter}{\xnumberline {\ }CITED LITERATURE}{18}{figure.caption.10}%
 \addvspace {\baselineskip }
-\contentsline {chapter}{\xnumberline {\ }VITA}{8}{}%
+\contentsline {chapter}{\xnumberline {\ }VITA}{19}{figure.caption.10}%

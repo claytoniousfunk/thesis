@@ -1175,7 +1175,9 @@
    }
 
 \def\endthebibliography{\endlist\pagestyle{pageontop}}
-%    \end{macrocode}
+
+
+% \end{macrocode}
 %
 % \subsection{Indexing}
 %    \begin{macrocode}
